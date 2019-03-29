@@ -1,4 +1,4 @@
-package com.hadilo.mockapiio;
+package com.hadilo.implementmockapi;
 
 import org.junit.Test;
 
